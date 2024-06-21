@@ -17,15 +17,15 @@ h1 {
 
 .flex-container {
   display: flex;
-  justify-content: center; /* Centra orizzontalmente */
-  align-items: center; /* Centra verticalmente */
-  height: 30vh; /* Altezza del contenitore */
-  background-color: #f0f0f0; /* Colore di sfondo per visualizzare meglio l'immagine centrata */
+  justify-content: center; 
+  align-items: center; 
+  height: 30vh; 
+  background-color: #f0f0f0; 
 }
 
 .centered-image {
-  max-width: 100%; /* Adatta l'immagine alla larghezza del contenitore */
-  height: auto; /* Mantiene il rapporto di aspetto */
+  max-width: 100%; 
+  height: auto; 
 }
 
 .card {
